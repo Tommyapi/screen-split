@@ -49,9 +49,13 @@ If this project saved you time, you can buy the author a coffee in crypto. Thank
 | Network | Asset | Address |
 |---|---|---|
 | TRON (TRC20) | USDT | `TNGdTwE6opH6rmUyoG1JUR7FSyEb4k273R` |
+| Ethereum / BNB Chain / Polygon | USDT | `0x59c43144a862b351fa1086ae842d1327c9d91613` |
+| Ethereum / Arbitrum / Base | ETH | `0x59c43144a862b351fa1086ae842d1327c9d91613` |
+| Bitcoin | BTC | `1RS6tWXHregLfEsiPzVUCUBuhgDg5uTSV` |
+| Solana | USDT | `HZguEXfTtLChNdJTxAYCbcGscaqikz8JYrEpUhEyeVd9` |
 
-Please send **USDT on the TRON (TRC20) network only** — other tokens or networks sent to this address may be lost.
-请只通过 **TRON (TRC20) 网络转 USDT**，其他币种或网络转入可能无法找回。
+Please send only the listed asset on the listed network — other tokens or networks may be lost.
+请按表中对应的网络转对应的币种，转错币种或网络可能无法找回。
 
 ## License
 
