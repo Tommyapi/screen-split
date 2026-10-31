@@ -41,6 +41,18 @@ To start it at logon, register a scheduled task with trigger "At log on" and the
 - Enumerates monitors live with `EnumDisplayMonitors` on every pass. `System.Windows.Forms.Screen.AllScreens` is cached per process, and a windowless daemon never receives `WM_DISPLAYCHANGE`, so the cached list goes stale after the display layout changes.
 - Moves with `SetWindowPos(NOZORDER|NOACTIVATE)`, so it never steals focus from the game.
 
+## Support / 打赏
+
+If this project saved you time, you can buy the author a coffee in crypto. Thank you!
+如果这个项目帮到了你，欢迎用加密货币打赏支持，谢谢！
+
+| Network | Asset | Address |
+|---|---|---|
+| TRON (TRC20) | USDT | `TNGdTwE6opH6rmUyoG1JUR7FSyEb4k273R` |
+
+Please send **USDT on the TRON (TRC20) network only** — other tokens or networks sent to this address may be lost.
+请只通过 **TRON (TRC20) 网络转 USDT**，其他币种或网络转入可能无法找回。
+
 ## License
 
 MIT
